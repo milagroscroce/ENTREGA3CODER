@@ -6,6 +6,7 @@
 
 body {
     font-family: "Poetsen One";
+    color:#d04337;
 }
 .div__h1--principal {
     display: flex;
@@ -44,10 +45,11 @@ body {
     font-style: normal;
 }
 
-h3 {
+.h3-subtitulos {
     padding: 1em;
     font-size: 2em;
-    color: #d04337;
+    font-family: "Poetsen One";
+    color:#d04337;
     text-align: center;
 }
 
